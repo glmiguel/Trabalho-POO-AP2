@@ -7,7 +7,7 @@ package caixaeletronico;
 
 /**
  *
- * @author User
+ * @author Gabriel Luis Miguel da Silva
  */
 public class Bandeja {
 

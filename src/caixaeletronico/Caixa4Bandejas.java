@@ -8,7 +8,7 @@ package caixaeletronico;
 
 /**
  *
- * @author User
+ * @author Gabriel Luis Miguel da Silva
  */
 import java.util.Collection;
 import java.util.ArrayList;

@@ -7,7 +7,7 @@ package caixaeletronico;
 
 /**
  *
- * @author User
+ * @author Gabriel Luis Miguel da Silva
  */
 import java.util.Scanner;
 import java.util.regex.Matcher;
