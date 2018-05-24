@@ -59,9 +59,9 @@ public class Bandeja {
     //</editor-fold>
 
      // <editor-fold defaultstate="collapsed" desc="Sacar da Bandeja">
-    public void sacarBandeja(int quanitdadeSacar) {
+    public void sacarBandeja(int quantidadeSacar) {
 
-        quantidadeCedula -= quanitdadeSacar;
+        quantidadeCedula -= quantidadeSacar;
         saldo = valorFace * quantidadeCedula;
 
     }
